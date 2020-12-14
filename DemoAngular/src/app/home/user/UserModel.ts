@@ -1,0 +1,10 @@
+
+export interface User
+{
+    id : number,
+    name : string,
+    email : string,
+    department : string,
+    jobTitle: string,
+    password : string,
+}
